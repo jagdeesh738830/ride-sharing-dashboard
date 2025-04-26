@@ -33,8 +33,8 @@ This project provides a detailed analysis of ride-sharing data (Ola and Uber) by
 - Bar Charts – Total Bookings & Revenue (Vehicle-wise)
 - Card Visuals – KPIs (Total Revenue, Total Bookings)
 - Matrix Table – Detailed Monthly Vehicle Analysis
-- Stacked Bar Charts – Cancellation Reasons
-- Heat Map – Booking Value Day-wise
+- pie charts Charts – Cancellation Reasons
+- stack bar chart– Booking Value Day-wise
 - Rating Analysis Graphs – Vehicle Ratings
 
 ## 📂 Files
