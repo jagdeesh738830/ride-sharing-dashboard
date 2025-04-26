@@ -48,3 +48,11 @@ This project provides a detailed analysis of ride-sharing data (Ola and Uber) by
 1. Download the `.pbix` file.
 2. Open in Microsoft Power BI Desktop.
 3. Explore interactive dashboards and filters.
+
+---
+⚠️ **Note:**  
+This project is created and owned by **Jagdeesh**.  
+Unauthorized copying, reproduction, or claiming this project as your own in any portfolio, resume, or job application is strictly prohibited.  
+Feel free to refer and learn from it, but please respect original ownership.
+---
+
